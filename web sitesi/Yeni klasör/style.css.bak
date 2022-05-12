@@ -1,0 +1,57 @@
+@charset "utf-8";
+
+#header{
+	width:900px;
+	height:100px;
+	background:lightsalmon;
+	
+	margin:0 auto 0 auto;
+	display:table;
+}
+#content{
+	width:870px;
+	height:auto;
+	background:#ccc;
+	padding:10px 15px 10px 15px;
+	
+	margin:20px auto 20px auto;
+	display:table;
+}
+#content h1, #content .sayfabanner{
+	margin: 0 auto 0 auto;
+	display: table;
+}
+#footer{
+	margin:0 auto 0 auto;
+	display:table;
+}
+.websitesilogo{
+	margin:0 auto 0 auto;
+	display:table; 
+	
+	width:150px;
+	height:auto;
+}
+.menu{
+	margin:0px auto 10px auto;
+	display:table;
+}
+.menu li{
+	float:left;
+	list-style-type:none; 
+	margin-right:15px;
+
+}
+.menu li a{
+	color:#000;
+	font-size:20px;
+	text-decoration:none;
+	
+    padding:5px 10px;
+	border:2px solid #000;
+}
+.menu li a:hover{
+	color:#f00;
+	border:2px solid #f00;
+}
+
