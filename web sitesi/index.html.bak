@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <title>Anasayfa</title>
+ <style>
+body {
+  background-image: url("img/peakpx (1).jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+ 
+ <meta http-equiv="Content-Type" content="text/html: charset-utf-8" />
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+
+ <meta name="description" content="" />
+ <meta name="keyword" content="" />
+
+ <link href="css/style.css" rel="stylesheet" type="text/css">
+ <link rel="shortout icon" href="img/"> 
+ </head>
+ <body>
+    
+    <div id="header">
+	    <img src="img/logo.jpg" alt="logo" class="websitesilogo" />
+
+		<ul class="menu">
+		   <li>
+		      <a href="index.html" title="Anasayfa">Anasayfa</a>
+		   </li>
+		   <li>
+		      <a href="hakkinda.html" title="Hakkında">Hakkında</a>
+		   </li>
+		   <li>
+		      <a href="ozgecmis.html" title="Özgeçmiş">Özgeçmiş</a>
+		   </li>
+		   <li>
+		      <a href="ilgialanlari.html" title="İlgi Alanları">İlgi Alanları</a>
+		   </li>
+		   <li>
+		      <a href="sehrim.html" title="Şehrim">Şehrim</a>
+		   </li>
+		   <li>
+		      <a href="takimimiz.html" title="Takımımız">Takımımız</a>
+		   </li>
+		   <li>
+		      <a href="iletisim.html" title="İletişim">İletişim</a>
+		   </li>
+		</ul>
+	</div>
+	<div id="content">
+		<div class="sayfabanner"> 
+		    <img src="img/welcome.jpg" />
+		</div>
+	 
+	    <div style="clear:both;"></div>
+	</div>
+	<div id="footer">
+	
+	</div>
+		 	   
+ </body>
+ </html>
+ 
